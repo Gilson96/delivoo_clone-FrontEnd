@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/delivoo_clone-FrontEnd/static/css/main.31d6cfe0.css",
+    "main.js": "/delivoo_clone-FrontEnd/static/js/main.0be9398a.js",
+    "index.html": "/delivoo_clone-FrontEnd/index.html",
+    "main.0be9398a.js.map": "/delivoo_clone-FrontEnd/static/js/main.0be9398a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.0be9398a.js"
+  ]
+}
