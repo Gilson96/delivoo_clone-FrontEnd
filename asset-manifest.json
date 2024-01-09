@@ -1,12 +1,28 @@
 {
   "files": {
-    "main.css": "/delivoo_clone-FrontEnd/static/css/main.31d6cfe0.css",
-    "main.js": "/delivoo_clone-FrontEnd/static/js/main.0be9398a.js",
+    "main.css": "/delivoo_clone-FrontEnd/static/css/main.53a5470e.css",
+    "main.js": "/delivoo_clone-FrontEnd/static/js/main.bd9dd16e.js",
+    "static/media/pizza-hut.jpeg": "/delivoo_clone-FrontEnd/static/media/pizza-hut.b46ef9dfc4c0bf976060.jpeg",
+    "static/media/shanghai-garden.jpeg": "/delivoo_clone-FrontEnd/static/media/shanghai-garden.bfb6cd581a0795c6203e.jpeg",
+    "static/media/papa-johns-pizza-box.jpg": "/delivoo_clone-FrontEnd/static/media/papa-johns-pizza-box.486b7a8f20e9d88d8563.jpg",
+    "static/media/pizza.jpg": "/delivoo_clone-FrontEnd/static/media/pizza.04118275917a0446339e.jpg",
+    "static/media/vegan.jpg": "/delivoo_clone-FrontEnd/static/media/vegan.1c8aee485ec3f6102284.jpg",
+    "static/media/yo.jpg": "/delivoo_clone-FrontEnd/static/media/yo.14fb65a851857ee66189.jpg",
+    "static/media/juice-jar.jpg": "/delivoo_clone-FrontEnd/static/media/juice-jar.b51bb1173aa5afa29d75.jpg",
+    "static/media/pokai.jpeg": "/delivoo_clone-FrontEnd/static/media/pokai.07568fae59f32615f176.jpeg",
+    "static/media/italian.jpg": "/delivoo_clone-FrontEnd/static/media/italian.a0dc5a6ac5515ab415a8.jpg",
+    "static/media/healthy.jpg": "/delivoo_clone-FrontEnd/static/media/healthy.adc748a6f7f9fcccf9bb.jpg",
+    "static/media/itsu.jpeg": "/delivoo_clone-FrontEnd/static/media/itsu.a60ebc401b54de5d9b42.jpeg",
+    "static/media/delivery.gif": "/delivoo_clone-FrontEnd/static/media/delivery.2f103e4628f07b794678.gif",
+    "static/media/Asian.jpg": "/delivoo_clone-FrontEnd/static/media/Asian.e88b2b5d73f145ac77c7.jpg",
+    "static/media/2301898.png": "/delivoo_clone-FrontEnd/static/media/2301898.c235995bb64b29250103.png",
+    "static/media/dessert.jpg": "/delivoo_clone-FrontEnd/static/media/dessert.8f783ca84fb6e5e7eea3.jpg",
+    "static/media/logo-plus.svg": "/delivoo_clone-FrontEnd/static/media/logo-plus.ccf513db92f72bd69a746c4118f39b48.svg",
     "index.html": "/delivoo_clone-FrontEnd/index.html",
-    "main.0be9398a.js.map": "/delivoo_clone-FrontEnd/static/js/main.0be9398a.js.map"
+    "main.bd9dd16e.js.map": "/delivoo_clone-FrontEnd/static/js/main.bd9dd16e.js.map"
   },
   "entrypoints": [
-    "static/css/main.31d6cfe0.css",
-    "static/js/main.0be9398a.js"
+    "static/css/main.53a5470e.css",
+    "static/js/main.bd9dd16e.js"
   ]
 }
