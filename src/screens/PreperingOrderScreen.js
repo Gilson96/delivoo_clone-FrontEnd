@@ -8,21 +8,21 @@ const PreperingOrderScreen = () => {
   const navigate = useNavigate()
   const [countOfProgress, setCountOProgress] = useState(0);
 
-  // useEffect(() => {
-  //   const timer = setInterval(() => {
+  useEffect(() => {
+    const timer = setInterval(() => {
       
-  //     setCountOProgress((oldProgress) => {
-  //       if (100 === oldProgress) return 0;
-  //       return Math.min(oldProgress + Math.random() * 10, 100);
-  //     });
-  //   }, 190);
+      setCountOProgress((oldProgress) => {
+        if (100 === oldProgress) return 0;
+        return Math.min(oldProgress + Math.random() * 10, 100);
+      });
+    }, 190);
 
-  //     setTimeout(() =>{navigate("/deliveryScreen")}, 4000)
+      setTimeout(() =>{navigate("/deliveryScreen")}, 4000)
     
-  //   return () => {
-  //     clearInterval(timer);
-  //   };
-  // }, []);
+    return () => {
+      clearInterval(timer);
+    };
+  }, []);
 
   return (
     <div className="bg-[#00CCBB] flex flex-column flex-1 justify-center items-center h-screen">
