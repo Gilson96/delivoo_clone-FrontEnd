@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/delivoo_clone-FrontEnd/static/css/main.53a5470e.css",
-    "main.js": "/delivoo_clone-FrontEnd/static/js/main.1e77e060.js",
+    "main.css": "/delivoo_clone-FrontEnd/static/css/main.09e9b5bf.css",
+    "main.js": "/delivoo_clone-FrontEnd/static/js/main.4d085b55.js",
     "static/media/pizza-hut.jpeg": "/delivoo_clone-FrontEnd/static/media/pizza-hut.b46ef9dfc4c0bf976060.jpeg",
     "static/media/shanghai-garden.jpeg": "/delivoo_clone-FrontEnd/static/media/shanghai-garden.bfb6cd581a0795c6203e.jpeg",
     "static/media/papa-johns-pizza-box.jpg": "/delivoo_clone-FrontEnd/static/media/papa-johns-pizza-box.486b7a8f20e9d88d8563.jpg",
@@ -19,10 +19,11 @@
     "static/media/dessert.jpg": "/delivoo_clone-FrontEnd/static/media/dessert.8f783ca84fb6e5e7eea3.jpg",
     "static/media/logo-plus.svg": "/delivoo_clone-FrontEnd/static/media/logo-plus.ccf513db92f72bd69a746c4118f39b48.svg",
     "index.html": "/delivoo_clone-FrontEnd/index.html",
-    "main.1e77e060.js.map": "/delivoo_clone-FrontEnd/static/js/main.1e77e060.js.map"
+    "main.09e9b5bf.css.map": "/delivoo_clone-FrontEnd/static/css/main.09e9b5bf.css.map",
+    "main.4d085b55.js.map": "/delivoo_clone-FrontEnd/static/js/main.4d085b55.js.map"
   },
   "entrypoints": [
-    "static/css/main.53a5470e.css",
-    "static/js/main.1e77e060.js"
+    "static/css/main.09e9b5bf.css",
+    "static/js/main.4d085b55.js"
   ]
 }
