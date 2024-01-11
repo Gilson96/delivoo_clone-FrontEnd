@@ -38,7 +38,7 @@ const PreperingOrderScreen = () => {
         Waiting for Restaurant to accept order
       </p>
       
-      <ProgressBar className='w-1/2' striped variant="info" now={countOfProgress} />
+      <ProgressBar className='w-1/2' striped variant="info"/>
 
     </div>
   )
