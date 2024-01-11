@@ -33,7 +33,7 @@ const RestaurantScreen = (props) => {
     <div>
      
       <div className="relative">
-      <div className={`bg-[url('src')] h-96 w-full bg-center	bg-no-repeat	bg-cover`}>{src}</div>
+      <div className={`bg-[url(${src})] h-96 w-full bg-center	bg-no-repeat	bg-cover`}></div>
         <Link to='/'
           className="absolute top-14 left-5 p-2 bg-gray-100 rounded-full hover:bg-gray-200">
           <ArrowLeftIcon className='h-5 w-5' color="#00CCBB" />
